@@ -1,6 +1,6 @@
 # Hi There 👋
 
-* Creator of [AnQiCMS](https://github.com/fesiong/goblog)
+* Creator of [AnQiCMS](https://github.com/fesiong/anqicms)
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=fesiong&show_icons=true&theme=buefy)
 
@@ -8,7 +8,7 @@
 
 # Projects
 
-[![AnQiCMS](https://github-readme-stats.vercel.app/api/pin/?username=fesiong&repo=goblog&show_owner=true)](https://github.com/fesiong/goblo)
+[![AnQiCMS](https://github-readme-stats.vercel.app/api/pin/?username=fesiong&repo=anqicms&show_owner=true)](https://github.com/fesiong/anqicms)
 [![AnQiCMS-Admin](https://github-readme-stats.vercel.app/api/pin/?username=fesiong&repo=anqicms-admin&show_owner=true)](https://github.com/esiong/anqicms-admin)
 
 # How To Reach Me
