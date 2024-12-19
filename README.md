@@ -9,7 +9,7 @@
 # Projects
 
 [![AnQiCMS](https://github-readme-stats.vercel.app/api/pin/?username=fesiong&repo=anqicms&show_owner=true)](https://github.com/fesiong/anqicms)
-[![AnQiCMS-Admin](https://github-readme-stats.vercel.app/api/pin/?username=fesiong&repo=anqicms-admin&show_owner=true)](https://github.com/esiong/anqicms-admin)
+[![AnQiCMS-Admin](https://github-readme-stats.vercel.app/api/pin/?username=fesiong&repo=anqicms-admin&show_owner=true)](https://github.com/fesiong/anqicms-admin)
 
 # How To Reach Me
 
